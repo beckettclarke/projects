@@ -1,4 +1,4 @@
-![Icon](https://github.com/ItsFoxDev/repos/raw/main//WhiteboardApp/img/icon-small.png)
+![Icon](https://github.com/ItsFoxDev/repos/raw/main/WhiteboardApp/img/icon-small.png)
 # Whiteboard App
 🎨 A simple whiteboard app
 
