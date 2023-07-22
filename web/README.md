@@ -3,7 +3,7 @@
 </h1>
 
 **Sites** is a collection of smaller sites I've made.
-
+> ⚠️ Page no longer updated, please check the [Main readme](https://itsfoxdev.github.io/projects)
 ## ✅ Usage
 * **📸 Timewarp:** [View online](https://itsfoxdev.github.io/sites/timewarp) or [Standalone html](https://raw.githubusercontent.com/ItsFoxDev/sites/main/timewarp/Modern%20Time%20Warp%20Filter.html)
 * **🎧 Auxilla:** [View online](https://itsfoxdev.github.io/sites/auxilla) or [Standalone html](https://raw.githubusercontent.com/ItsFoxDev/sites/main/auxilla/index.html)
