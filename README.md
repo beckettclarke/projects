@@ -10,9 +10,9 @@ These are a bunch of smaller projects that don't deserve their own repositories.
 - **🔥 MontereyFox:** [Repository page](https://github.com/ItsFoxDev/repos/tree/main/misc/MontereyFox)
 
 ## 🗺️ Roadmap
-`🔴` Add repo `concepts_legacy`<br>
-`🔴` Add repo `projects`<br>
-`🟢` Add repo `MicroSites`<br>
+`🔴` Combine repo `concepts_legacy`<br>
+`🔴` Combine repo `projects`<br>
+`🟢` Combine repo `MicroSites`<br>
 `🟢` Reorganize repository<br>
 
 `🔴` = Not started‎‎ ‎ ‎ ‎ ‎ `🟡` = In development‎ ‎ ‎ ‎ ‎ `🟢` = Implemented
