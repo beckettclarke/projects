@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ShellClient
-// @namespace    https://sites.google.com/view/foxdev
+// @namespace    https://itsfoxdev.github.io
 // @version      2.4
 // @description  A client for shell shockers
 // @run-at       document-body
@@ -28,7 +28,7 @@
 // @match        https://scrambled.today/*
 // @match        https://deathegg.world/*
 // @match        https://violentegg.fun/*
-// @icon         https://github.com/ItsFoxDev/ShellClient/raw/main/src/img/Icon.png
+// @icon         https://itsfoxdev.github.io/projcts/js/shellclient/img/icon.pmg
 // @grant        none
 // ==/UserScript==
 
@@ -37,7 +37,7 @@
 // Rainbow crosshair - A3+++
 
 var wm = document.createElement ('img');
-wm.id = 'wm';wm.src = 'https://github.com/ItsFoxDev/ShellClient/raw/main/src/img/Watermark.png'
+wm.id = 'wm';wm.src = 'https://itsfoxdev.github.io/projects/js/shellclient/img/watermark.png'
 wm.style = 'position:fixed;bottom:1%;left:1%;right:79%pointer-events:none !important;z-index:50000;width:20%;height:auto'
 document.body.appendChild (wm);
 
