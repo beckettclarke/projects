@@ -2,7 +2,7 @@
   <img style="border-radius:10px" src="banner.png">
 </h1>
 
-These are a bunch of smaller projects that don't deserve their own repositories.
+These are a bunch of smaller projects that don't have their own repositories.
 
 ## ✅ Usage
 ### 🌐 Websites
