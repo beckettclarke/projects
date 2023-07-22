@@ -13,5 +13,5 @@ if grep -s "export PATH=\"\$PATH:\$HOME/.foxcmd\"" &> /dev/null "$bashdir"; then
 else
     echo -e "export PATH=\"\$PATH:\$HOME/.foxcmd\"" >> .bashrc
 fi
-curl -fsSL "https://raw.githubusercontent.com/ItsFoxDev/IconBuddy/main/iconbuddy.sh" -o $HOME/.foxcmd/iconbuddy
+curl -fsSL "https://raw.githubusercontent.com/ItsFoxDev/repos/main/IconBuddy/iconbuddy.sh" -o $HOME/.foxcmd/iconbuddy
 chmod 755 $HOME/.foxcmd/iconbuddy
