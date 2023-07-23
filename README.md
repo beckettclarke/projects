@@ -11,12 +11,12 @@ These are a bunch of smaller projects that don't have their own repositories.
 - **📺 Screentest:** [View online](https://itsfoxdev.github.io/sites/screentest)
 - **🏷️ LargeText:** [View online](https://itsfoxdev.github.io/repos/site/LargeText/)<br>
 - **🖊️ WhiteboardApp:** [View online](https://itsfoxdev.github.io/repos/site/WhiteboardApp/) or [download for macOS](https://github.com/ItsFoxDev/repos/raw/main/site/WhiteboardApp/appfiles/Whiteboard.zip)
-### 🎨 Userstyles
-- **🔥 MontereyFox:** [Repository page](https://github.com/ItsFoxDev/repos/tree/main/misc/MontereyFox)
 ### 📜 Userscripts
 - **💬 QLBypass:** [Installer](https://itsfoxdev.github.io/projects/js/qlbypass/)
 - **🛑 Rickstopper:** [Installer](https://itsfoxdev.github.io/projects/js/rickstopper/install/)
 - **🥚 Shellclient:** [Install](https://itsfoxdev.github.io/projects/js/shellclient/main.user.js)
+### 🎨 Userstyles
+- **🔥 MontereyFox:** [Repository page](https://github.com/ItsFoxDev/repos/tree/main/misc/MontereyFox)
 ## 🗺️ Roadmap
 `🔴` Combine repo `concepts_legacy`<br>
 `🔴` Combine repo `projects`<br>
