@@ -6,11 +6,11 @@ These are a bunch of smaller projects that don't have their own repositories.
 
 ## ✅ Usage
 ### 🌐 Websites
-- **📸 Timewarp:** [View online](https://itsfoxdev.github.io/sites/timewarp) or [Standalone html](https://raw.githubusercontent.com/ItsFoxDev/sites/main/timewarp/Modern%20Time%20Warp%20Filter.html)
-- **🎧 Auxilla:** [View online](https://itsfoxdev.github.io/sites/auxilla) or [Standalone html](https://raw.githubusercontent.com/ItsFoxDev/sites/main/auxilla/index.html)
-- **📺 Screentest:** [View online](https://itsfoxdev.github.io/sites/screentest)
-- **🏷️ LargeText:** [View online](https://itsfoxdev.github.io/repos/site/LargeText/)<br>
-- **🖊️ WhiteboardApp:** [View online](https://itsfoxdev.github.io/repos/site/WhiteboardApp/) or [download for macOS](https://github.com/ItsFoxDev/repos/raw/main/site/WhiteboardApp/appfiles/Whiteboard.zip)
+- **📸 Timewarp:** [View online](https://itsfoxdev.github.io/projects/web/timewarp) or [Standalone html](https://raw.githubusercontent.com/ItsFoxDev/projects/main/web/timewarp/index.html)
+- **🎧 Auxilla:** [View online](https://itsfoxdev.github.io/projects/web/auxilla) or [Standalone html](https://raw.githubusercontent.com/ItsFoxDev/projects/main/web/auxilla/index.html)
+- **📺 Screentest:** [View online](https://itsfoxdev.github.io/projects/screentest)
+- **🏷️ LargeText:** [View online](https://itsfoxdev.github.io/projects/web/largetext/)<br>
+- **🖊️ WhiteboardApp:** [View online](https://itsfoxdev.github.io/projects/web/whiteboard/) or [download for macOS](https://github.com/ItsFoxDev/projects/raw/main/web/whiteboard/appfiles/Whiteboard.zip)
 ### 📜 Userscripts
 - **💬 QLBypass:** [Installer](https://itsfoxdev.github.io/projects/js/qlbypass/)
 - **🛑 Rickstopper:** [Installer](https://itsfoxdev.github.io/projects/js/rickstopper/install/)
