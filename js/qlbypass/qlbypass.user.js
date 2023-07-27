@@ -5,7 +5,7 @@
 // @version     2.5
 // @run-at      document-start
 // @author      FoxDev
-// @icon        https://itsfoxdev.github.io/projects/userscripts/qlbypass/icon.png
+// @icon        https://itsfoxdev.github.io/projects/js/qlbypass/icon.png
 // @require     https://itsfoxdev.github.io/FoxJS/latest.js
 // @description Unobtrusively bypasses Quora login
 // ==/UserScript==
