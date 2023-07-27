@@ -2,9 +2,10 @@
 // @name        QLbypass
 // @namespace   itsfoxdev.github.io
 // @match       *://*quora.com/*
-// @version     2.5
+// @version     3
 // @run-at      document-start
 // @author      FoxDev
+// @downloadURL https://itsfoxdev.github.io/projects/js/qlbypass/qlbypass.user.js
 // @icon        https://itsfoxdev.github.io/projects/js/qlbypass/icon.png
 // @require     https://itsfoxdev.github.io/FoxJS/latest.js
 // @description Unobtrusively bypasses Quora login
