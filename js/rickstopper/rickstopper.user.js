@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         RickStopper
-// @namespace    https://itsfoxdev.github.io
-// @version      4
+// @namespace    https://beckettclarke.ca
+// @version      5
 // @description  Blocks rickrolls
-// @author       FoxDev
+// @author       BC Studios
 // @run-at       document-start
-// @downloadURL  https://itsfoxdev.github.io/projects/js/rickstopper/rickstopper.user.js
+// @downloadURL  https://beckettclarke.github.io/projects/js/rickstopper/rickstopper.user.js
 // @match        https://www.youtube.com/watch?v=dQw4w9WgXcQ*
 // @match        https://www.youtube.com/watch?v=xvFZjo5PgG0*
-// @icon         https://itsfoxdev.github.io/projects/js/rickstopper/icon.png
+// @icon         https://beckettclarke.github.io/projects/js/rickstopper/icon.png
 // @grant        none
 // ==/UserScript==
 
@@ -16,5 +16,5 @@
 if (document.location.href.indexOf('?rsaccept=true') === -1){
     console.log('⚠️ Rickroll detected, redirecting...');
     // Redirect to block page //
-    location.replace('https://itsfoxdev.github.io/projects/js/rickstopper/');
+    location.replace('https://beckettclarke.github.io/projects/js/rickstopper/');
 }

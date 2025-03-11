@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name        QLbypass
-// @namespace   itsfoxdev.github.io
+// @namespace   beckettclarke.ca
 // @match       *://*quora.com/*
-// @version     3
+// @version     4
 // @run-at      document-start
-// @author      FoxDev
-// @downloadURL https://itsfoxdev.github.io/projects/js/qlbypass/qlbypass.user.js
-// @icon        https://itsfoxdev.github.io/projects/js/qlbypass/icon.png
-// @require     https://itsfoxdev.github.io/FoxJS/latest.js
+// @author      BC Studios
+// @downloadURL https://beckettclarke.github.io/projects/js/qlbypass/qlbypass.user.js
+// @icon        https://beckettclarke.github.io/projects/js/qlbypass/icon.png
+// @require     https://beckettclarke.github.io/FoxJS/latest.js
 // @description Unobtrusively bypasses Quora login
 // ==/UserScript==
 
